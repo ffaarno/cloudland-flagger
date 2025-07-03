@@ -4,7 +4,7 @@ resources:
 - infrastructure.yaml
 - flux-system
 #- apps.yaml
-#- istio-version.yaml
-#- istio.yaml
-#- grafana-credentials.yaml
+- istio-version.yaml
+- istio.yaml
+- grafana-credentials.yaml
 

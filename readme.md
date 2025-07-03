@@ -1,4 +1,4 @@
-# GitOps Workshop 
+# GitOps Adventures Workshop 
 
 ## Tools and Setup
 
