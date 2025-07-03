@@ -9,4 +9,4 @@ spec:
     branch: master
   secretRef:
     name: flux-system
-  url: https://bitbucket.org/slixrepo/yourgit-flagger.git
+  url: https://github.com/ffaarno/cloudland-flagger.git
