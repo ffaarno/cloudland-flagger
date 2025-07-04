@@ -11,5 +11,5 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux-system
-  path: "../infrastructure/flux-system/monitoring"
+  path: "../infrastructure-local/flux-system/monitoring"
   prune: false
